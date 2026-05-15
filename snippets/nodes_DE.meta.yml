@@ -73,7 +73,7 @@ proxies:
   xudp: true
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: 🇩🇪DE_8|1.1MB/s
+  name: BG_speednode_0003
   network: tcp
   port: 8443
   reality-opts:
